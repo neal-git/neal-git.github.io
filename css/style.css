@@ -140,7 +140,7 @@ img {
 } 
 
 .intro {
-    margin: 0 auto;
+    margin: -0.5em auto 0 auto;
 }
 
 .section {
@@ -229,3 +229,8 @@ img {
         width: 40%;
     }
 }
+
+.intro-custom {
+    color: rgb(33, 32, 28);   /* You can change this to any color you want */
+}
+  
